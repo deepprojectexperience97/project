@@ -1,2 +1,3 @@
 # project
-e commerce repository
+E commerce repository
+Author - Deepak
